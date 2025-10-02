@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/telematika-test/static/css/main.d184f3af.css",
+    "main.js": "/telematika-test/static/js/main.1fea04f0.js",
+    "index.html": "/telematika-test/index.html",
+    "main.d184f3af.css.map": "/telematika-test/static/css/main.d184f3af.css.map",
+    "main.1fea04f0.js.map": "/telematika-test/static/js/main.1fea04f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d184f3af.css",
+    "static/js/main.1fea04f0.js"
+  ]
+}
